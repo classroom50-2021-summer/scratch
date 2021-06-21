@@ -12,5 +12,5 @@ Once you have submitted your assignment, your score will be available on GitHub 
 
 * On this GitHub page, click the **Actions** tab.
 * Under **All workflows**, click the title of the topmost workflow.
-* Click **Autograding**.
+* Click **Autograding** and then **Render results**.
 * Once the autograder is done running, you will see a ✅ next to each check that your submission passed and a ❌ next to each check that your submission did not pass. You may resubmit this assignment as many times as you would like prior to this assignment's deadline.
